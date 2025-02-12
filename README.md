@@ -49,18 +49,15 @@ A implementação deste projeto trará diversos impactos positivos para a cidade
 O projeto será executado em **cinco fases** dentro de um prazo total de 6 meses:  
 
 🔹 **Iniciação de Projeto: CANVAS**  
-- Justificativa 
-- Elaboração do OBJ SMART
-- Benefícios
+Justificativa, OBJ SMART, Benefícios
 
 🔹 **Plano de Gerenciamento de Configuração**  
-- Escopo 
-- Estimativas
-- Custo
-- Riscos
+
+🔹 **Planejamento**  
+Escopo, Estimativas, custos, riscos.
 
 🔹 **Monitoramento e Controle de Projeto**  
-- Avaliação qualitativa e quantitativa  
+Avaliação qualitativa e quantitativa  
 
 🔹 **Qualidade**  
 
