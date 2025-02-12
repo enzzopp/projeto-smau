@@ -48,21 +48,24 @@ A implementação deste projeto trará diversos impactos positivos para a cidade
 ## 📅 Cronograma do Projeto  
 O projeto será executado em **cinco fases** dentro de um prazo total de 6 meses:  
 
-🔹 **Fase de Iniciação de Projeto: CANVAS**  
-- Justificativa do projeto 
+🔹 **Iniciação de Projeto: CANVAS**  
+- Justificativa 
 - Elaboração do OBJ SMART
-- 
+- Benefícios
 
-🔹 **Fase 2 - Coleta de Dados (Semana 3 a 8)**  
-- Mapeamento manual das árvores e registro das informações.  
-- Consolidação dos dados em um banco de dados centralizado.  
+🔹 **Plano de Gerenciamento de Configuração**  
+- Escopo 
+- Estimativas
+- Custo
+- Riscos
 
-🔹 **Fase 3 - Análise e Relatório Final (Semana 9 a 12)**  
-- Organização e validação dos dados coletados.  
-- Produção do relatório final e recomendações para a gestão municipal.  
+🔹 **Monitoramento e Controle de Projeto**  
+- Avaliação qualitativa e quantitativa  
+
+🔹 **Qualidade**  
 
 ## 🔧 Tecnologias e Metodologia  
-- **Coleta manual de dados** feita por equipe treinada.  
+- **Coleta manual de dados** feita por equipe da prefeitura e/ou munícipes.  
 - **Uso de mapas e coordenadas geográficas** para registro da localização exata das árvores.  
 - **Banco de dados estruturado** para armazenamento e análise das informações.  
 - **Ferramentas de visualização** para gerar relatórios e mapas interativos.  
