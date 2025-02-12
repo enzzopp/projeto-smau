@@ -1,4 +1,4 @@
-# 🌳 SMAU – Sistema de Mapeamento da Arborização Urbana
+# 🌳 SMAU - Sistema de Mapeamento de Árvores Urbanas
 
 ## 📌 Sobre o Projeto  
 O **SMAU – Sistema de Mapeamento da Arborização Urbana** tem como objetivo mapear **90% das árvores do bairro X** por meio da coleta manual de dados feita por uma equipe especializada. Durante o levantamento, serão registradas informações como **espécie, estado de saúde, altura e localização** de cada árvore.  
@@ -46,20 +46,19 @@ A implementação deste projeto trará diversos impactos positivos para a cidade
 - Redução de prejuízos causados por quedas de árvores sobre bens públicos e privados.  
 
 ## 📅 Cronograma do Projeto  
-O projeto será executado em **cinco fases** dentro de um prazo total de 6 meses:  
+O projeto será executado em **quatro fases**:  
 
-🔹 **Iniciação de Projeto: CANVAS**  
-Justificativa, OBJ SMART, Benefícios
+🔹 [**Iniciação**](fase1/README.md)
+- Canvas, Definição de Projeto e
+Pesquisa de Reuso.
 
-🔹 **Plano de Gerenciamento de Configuração**  
+🔹 [**Planejamento**](fase2/README.md)  
 
-🔹 **Planejamento**  
+🔹 [**Execução**](fase3/README.md)
 Escopo, Estimativas, custos, riscos.
 
-🔹 **Monitoramento e Controle de Projeto**  
-Avaliação qualitativa e quantitativa  
-
-🔹 **Qualidade**  
+🔹 [**Encerramento**](fase4/README.md)
+Avaliação qualitativa e quantitativa . 
 
 ## 🔧 Tecnologias e Metodologia  
 - **Coleta manual de dados** feita por equipe da prefeitura e/ou munícipes.  
@@ -68,6 +67,6 @@ Avaliação qualitativa e quantitativa
 - **Ferramentas de visualização** para gerar relatórios e mapas interativos.  
 
 ## 📌 Conclusão  
-O **SMAU – Sistema de Mapeamento da Arborização Urbana** é uma iniciativa essencial para tornar a cidade mais segura, sustentável e eficiente na gestão ambiental. Com a coleta e organização dos dados, será possível reduzir riscos de quedas, otimizar a manutenção, melhorar a qualidade do ar e criar um planejamento urbano mais inteligente.  
+O **SMAU - Sistema de Mapeamento de Árvores Urbanas** é uma iniciativa essencial para tornar a cidade mais segura, sustentável e eficiente na gestão ambiental. Com a coleta e organização dos dados, será possível reduzir riscos de quedas, otimizar a manutenção, melhorar a qualidade do ar e criar um planejamento urbano mais inteligente.  
 
 Ao final do projeto, a cidade terá um banco de dados atualizado, permitindo que gestores públicos, pesquisadores e a população utilizem essas informações para garantir uma **arborização urbana mais saudável e bem administrada**. 🌳✨  
