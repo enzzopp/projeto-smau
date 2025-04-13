@@ -5,47 +5,47 @@ O **SMAU – Sistema de Mapeamento da Arborização Urbana** tem como objetivo m
 
 Com essas informações organizadas em um banco de dados, será possível aprimorar a **gestão da arborização urbana**, prevenindo quedas, otimizando os processos de manutenção e promovendo um ambiente mais sustentável e seguro para a população.  
 
-## 🎯 Objetivos  
-✅ **Coletar dados detalhados** sobre as árvores urbanas para auxiliar na gestão e manutenção preventiva.  
-✅ **Identificar árvores em risco de queda** para prevenir acidentes e reduzir danos estruturais.  
-✅ **Facilitar a tomada de decisões** para políticas públicas de arborização e sustentabilidade.  
-✅ **Criar um banco de dados confiável** com informações atualizadas sobre as árvores da cidade.  
-✅ **Aumentar a conscientização ambiental** e incentivar a participação da comunidade na preservação das áreas verdes.  
+---
 
-## 🌱 Benefícios do Projeto  
-A implementação deste projeto trará diversos impactos positivos para a cidade, incluindo:  
+## 🧭 Fases do Projeto
 
-### 🛡️ **1. Prevenção de quedas e redução de riscos**  
-- Identificação precoce de árvores doentes ou instáveis.  
-- Redução de acidentes envolvendo quedas sobre vias públicas, veículos e pedestres.  
-- Planejamento eficiente da poda e remoção de árvores comprometidas.  
+### 🔹 1. Iniciação:
+Documentação inicial com foco na estrutura conceitual.
 
-### 🏙️ **2. Melhoria da gestão e manutenção urbana**  
-- Organização e priorização da manutenção com base em dados reais.  
-- Redução de custos operacionais, evitando intervenções emergenciais.  
-- Melhoria da infraestrutura verde da cidade.  
+- [Canvas](https://github.com/enzzopp/projeto-smau/wiki/Canvas-SMAU)
 
-### 🌍 **3. Sustentabilidade e preservação ambiental**  
-- Monitoramento da saúde das árvores para garantir sua conservação.  
-- Manutenção da biodiversidade e proteção das espécies nativas.  
-- Contribuição para a qualidade do ar e o equilíbrio térmico da cidade.  
+---
 
-### 👥 **4. Engajamento da comunidade e transparência**  
-- Maior participação dos cidadãos na preservação ambiental.  
-- Sensibilização da população sobre a importância das árvores para a qualidade de vida.  
-- Possibilidade de colaboração com órgãos ambientais e universidades.  
+### 🔹 2. Planejamento:
+Planejamento detalhado das entregas e organização do trabalho.
 
-### 🏗️ **5. Planejamento urbano inteligente**  
-- Dados atualizados ajudam no planejamento de novas áreas verdes.  
-- Suporte para políticas públicas voltadas à arborização e à infraestrutura urbana.  
-- Melhoria da mobilidade urbana, prevenindo obstruções causadas por quedas de galhos e raízes.  
+- [HU / Backlog](https://github.com/enzzopp/projeto-smau/wiki/Hist%C3%B3rias-de-Usu%C3%A1rio)  
+- [Estimativas](https://github.com/enzzopp/projeto-smau/wiki/Estimativa-de-Complexidade)  
+- [Riscos](https://github.com/enzzopp/projeto-smau/wiki/Riscos)  
+- [Cronograma](https://github.com/enzzopp/projeto-smau/wiki/Cronograma)  
 
-### 💰 **6. Redução de custos e otimização de recursos públicos**  
-- Menos gastos emergenciais com remoção de árvores caídas.  
-- Planejamento eficiente da alocação de equipes e equipamentos de manutenção.  
-- Redução de prejuízos causados por quedas de árvores sobre bens públicos e privados.  
+---
+
+### 🔹 3. Desenvolvimento:
+Fase de construção conceitual e técnica do sistema.
+
+- [Modelo Atual (AS-IS)](https://github.com/enzzopp/projeto-smau/wiki/Modelos-de-Processo-de-Neg%C3%B3cio#as-is)  
+- [Modelo Proposto (TO-BE)](https://github.com/enzzopp/projeto-smau/wiki/Modelos-de-Processo-de-Neg%C3%B3cio#to-be)  
+- [Complexidade por Caso de Uso](https://github.com/enzzopp/projeto-smau/wiki/Avalia%C3%A7%C3%A3o-de-Complexidade-Atividade-por-Caso-de-Uso)  
+- [Regras de Negócio](https://github.com/enzzopp/projeto-smau/wiki/Regras-de-Neg%C3%B3cio)  
+- [Requisitos Não Funcionais](https://github.com/enzzopp/projeto-smau/wiki/Requisitos#-requisitos-n%C3%A3o-funcionais)  
+
+---
+
+### 🔹 4. Análise:
+Levantamento das operações e definição da arquitetura de serviços.
+
+- [Operações Candidatas]()  
+- [Serviços do Sistema]()  
+
+---
 
 ## 📌 Conclusão  
 O **SMAU - Sistema de Mapeamento de Árvores Urbanas** é uma iniciativa essencial para tornar a cidade mais segura, sustentável e eficiente na gestão ambiental. Com a coleta e organização dos dados, será possível reduzir riscos de quedas, otimizar a manutenção, melhorar a qualidade do ar e criar um planejamento urbano mais inteligente.  
 
-Ao final do projeto, a cidade terá um banco de dados atualizado, permitindo que gestores públicos, pesquisadores e a população utilizem essas informações para garantir uma **arborização urbana mais saudável e bem administrada**. 🌳✨  
+Ao final do projeto, a cidade terá um banco de dados atualizado, permitindo que gestores públicos, pesquisadores e a população utilizem essas informações para garantir uma **arborização urbana mais saudável e bem administrada**. 🌳✨ 
